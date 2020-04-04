@@ -1,0 +1,1 @@
+This is a capstone project that I worked on. I played a mjaor role in the development of the database creation, the CRUD methods wrote to interat with the data base, the MVC layers, as well as the frontend UI.
